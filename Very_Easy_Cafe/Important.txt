@@ -1,0 +1,13 @@
+######################################################
+#                                                    #
+#   Copyright © 2000 - 2006. http://1tik.free.fr     #
+#               All Rights Reserved                  # 
+#                                                    #                 
+#                                                    #
+#   Ce programme a étais crée par Toubal Sid Ahmed   #
+#     Pour plus d’informations  voire : A propos     #
+#    Ou visiter le site suivant http://1tik.free.fr  #
+#   A télécharger depuis le site http://1tik.free.fr #
+#             la rebrique logicielles                #
+#                                                    #
+######################################################

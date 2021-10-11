@@ -1,0 +1,21 @@
+Tarif2005 Delphi Edition .
+
+Javier 2006 .
+Utilitaire de gestion Cyber CAFÉ
+
+-Totalement dynamique jusqu'à 999 Postes
+
+-Sauvegarde les données en cours automatiquement
+sur disque dur pour ne pas les perdre en cas de 
+redémarrage accidentelle .
+
+-Sauvegarde les statistiques de toutes lesjournées
+dans une base de données consultable directement 
+depuis l’application depuis le bouton Stat .
+
+-Gère les changements de postesdes clients sans
+aucun problème par un simple clique . 
+
+-Plue besoin d’utiliser le clavier pour taper 
+l’heure d’entrée ou de sortie tout est automatisée .
+
